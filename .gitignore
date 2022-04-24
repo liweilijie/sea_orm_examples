@@ -35,7 +35,7 @@ target/
 
 # Project files
 .vscode/*
-.idea/*
+**/.idea/*
 
 # ctags
 **/*.vi
